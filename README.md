@@ -14,7 +14,7 @@
 
 ### Demo
 
-[https://codepen.suhailkakar.com](https://codepen.suhailkakar.com)
+[https://ayushi089.github.io/React-Codepen-Clone/]
 
 ### Installation
 
@@ -52,5 +52,5 @@ Codepen Clone is open source software licensed under the MIT License
 
 ### Contributor
 
-* [Suhail Kakar](https://suhailkakar.com)
+* [Ayushi Agnihotri](https://www.linkedin.com/in/ayushi-agnihotri-7a8a8723a/)
 
